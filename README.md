@@ -56,14 +56,14 @@
 #
 <h1 align="center">Key Work done:</h1>
 
-<ul style="text-align: justify; text-justify: newspaper; margin: 5px 380px">
-    <li>Analysis of charity data from <a href="https://www.gov.uk/government/organisations/charity-commission">UK Charity Cmmission</a></li>
-    <li>Creation of multigraph networks using <a href="https://networkx.org/">NetworkX</a> by linking charities and trustees together</li>
-    <li>Network visualization using <a href="https://gephi.org/">Gephi</a> and <a href="https://pyvis.readthedocs.io/en/latest/introduction.html#">Pyvis</a></li>
-    <li>Classification of UK Charities using various methods and categorywise analysis</li>
-    <li>Analysis of grants data provided by <a href="https://grantnav.threesixtygiving.org/#">360Giving GrantNav</a></li>
-    <li>Visualization of flow of funds among various regions of UK</li>
-    <li>Analysis of flow of funds towards Universities in UK</li>
+<ul>
+<li>Analysis of charity data from <a href="https://www.gov.uk/government/organisations/charity-commission">UK Charity Cmmission</a></li>
+<li>Creation of multigraph networks using <a href="https://networkx.org/">NetworkX</a> by linking charities and trustees together</li>
+<li>Network visualization using <a href="https://gephi.org/">Gephi</a> and <a href="https://pyvis.readthedocs.io/en/latest/introduction.html#">Pyvis</a></li>
+<li>Classification of UK Charities using various methods and categorywise analysis</li>
+<li>Analysis of grants data provided by <a href="https://grantnav.threesixtygiving.org/#">360Giving GrantNav</a></li>
+<li>Visualization of flow of funds among various regions of UK</li>
+<li>Analysis of flow of funds towards Universities in UK</li>
 <ul>
 
 #
