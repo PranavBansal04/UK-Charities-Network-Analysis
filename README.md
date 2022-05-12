@@ -10,8 +10,8 @@
 
 <h1 align="center">Technologies Used</h1>
 <p align="center">
-<a href="https://networkx.org/" target="_blank" rel="noreferrer"><img src="https://networkx.org/_static/networkx_logo.svg" width="90" height="30" alt="NetworkX" /></a>
-<a href="https://gephi.org" target="_blank" rel="noreferrer"><img src="https://gephi.org/images/logo.png" width="90" height="30" alt="Gephi" /></a>
+<a href="https://networkx.org/" target="_blank" rel="noreferrer"><img src="https://networkx.org/_static/networkx_logo.svg" width="150" height="36" alt="NetworkX" /></a>
+<a href="https://gephi.org" target="_blank" rel="noreferrer"><img src="https://gephi.org/images/logo.png" width="150" height="36" alt="Gephi" /></a>
 </p>
 
 
