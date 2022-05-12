@@ -135,8 +135,15 @@ Although the provided notebooks can be run completely independently but followin
 Degree distributions for UK charity data:
 
 <img align="center" src="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/outputs/boards_over_trustees.png?raw=true">
-#
+
 <img align="center" src="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/outputs/trustees_over_boards.png?raw=true">
+
+
+
+#
+Example network made with Gephi:
+
+<img align="center" src="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/outputs/all_internal.png?raw=true">
 
 
 ## License
