@@ -75,11 +75,15 @@
 
 - Pandas
 
-    $pip install pandas
+    $ pip install pandas
 
 - NetworkX
 
     $ pip install networkx
+
+- Pyvis
+
+    $ pip install pyvis
 
 #
 <h1 align="center">Getting Started</h1>
@@ -92,7 +96,8 @@ Change directory:
 
     $ cd UK-Charities-Network-Analysis
 
-Ipython notebooks can be directly uploaded to Google Colab used.
+
+Now you will be able to see all Ipython notebooks which can be directly uploaded to Google Colab and run.
 
 #
 
