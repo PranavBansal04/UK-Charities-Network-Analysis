@@ -44,10 +44,13 @@
         work has been done under the supervision of <a href="https://cos.northeastern.edu/people/louis-shekhtman/">Dr. Louis Shekhtman</a> and 
         <a href="https://www.khoury.northeastern.edu/people/albert-laszlo-barabasi/">Prof. Albert-László Barabási</a> at <a href="https://www.networkscienceinstitute.org/">NetSI, Northeastern University</a>.
     </div>
-    <div align="center" style="margin:20px 0px">
-        <img src="https://uploads-ssl.webflow.com/5c9104426f6f88af009ef3ad/5d83de8fdb4091605831e95d_NU_NetworkScienceInstitute_RGB-01-p-500.png" width="260" height="60">
-    </div>
 </p>
+
+#
+<div align="center" style="margin:20px 0px">
+        <img src="https://uploads-ssl.webflow.com/5c9104426f6f88af009ef3ad/5d83de8fdb4091605831e95d_NU_NetworkScienceInstitute_RGB-01-p-500.png" width="260" height="60">
+</div>
+
 
 #
 #
