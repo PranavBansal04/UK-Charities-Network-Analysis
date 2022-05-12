@@ -130,6 +130,14 @@ Although the provided notebooks can be run completely independently but followin
 
 #
 
+<h1 align="center">Results:</h1>
+
+Degree distributions for UK charity data:
+
+<img align="center" src="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/outputs/boards_over_trustees.png?raw=true">
+<img align="center" src="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/outputs/trustees_over_boards.png?raw=true>
+
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
