@@ -66,3 +66,35 @@
     <li>Analysis of flow of funds towards Universities in UK</li>
 <ul>
 
+#
+<h1 align="center">Prerequisites</h1>
+
+- Numpy
+$ pip install numpy
+
+- Pandas
+
+$ pip install pandas
+
+- NetworkX
+
+$ pip install networkx
+
+#
+<h1 align="center">Getting Started</h1>
+
+Clone the repository:
+
+$ git clone https://github.com/PranavBansal04/UK-Charities-Network-Analysis.git
+
+Change directory:
+
+$ cd UK-Charities-Network-Analysis
+
+Ipython notebooks can be directly uploaded to Google Colab used.
+
+#
+
+Files:
+
+- 
