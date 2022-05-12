@@ -69,21 +69,24 @@
 #
 <h1 align="center">Prerequisites</h1>
 
-- Numpy
+<ul>
+<li>Numpy</li>
 
     $ pip install numpy
 
-- Pandas
+<li>Pandas</li>
 
     $ pip install pandas
 
-- NetworkX
+<li>NetworkX</li>
 
     $ pip install networkx
 
-- Pyvis
+<li>Pyvis</li>
 
     $ pip install pyvis
+
+</ul>
 
 #
 <h1 align="center">Getting Started</h1>
