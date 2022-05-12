@@ -128,6 +128,8 @@ Although the provided notebooks can be run completely independently but followin
 
 - <a href="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/UK_Grants.ipynb">UK_Grants.ipynb</a> - contains analysis of grant data and code for building region network for visualizing flow of funds
 
+
+<b>Note</b> - <a href="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/UK_Charities_Classification.ipynb">UK_Charities_Classification.ipynb</a> contains the code for creating a clean dataset of these charities and trustees in Graph Object form.
 #
 
 <h1 align="center">Results:</h1>
