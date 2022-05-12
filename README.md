@@ -57,13 +57,21 @@
 <h1 align="center">Key Work done:</h1>
 
 <ul>
+
 <li>Analysis of charity data from <a href="https://www.gov.uk/government/organisations/charity-commission">UK Charity Cmmission</a></li>
+
 <li>Creation of multigraph networks using <a href="https://networkx.org/">NetworkX</a> by linking charities and trustees together</li>
+
 <li>Network visualization using <a href="https://gephi.org/">Gephi</a> and <a href="https://pyvis.readthedocs.io/en/latest/introduction.html#">Pyvis</a></li>
+
 <li>Classification of UK Charities using various methods and categorywise analysis</li>
+
 <li>Analysis of grants data provided by <a href="https://grantnav.threesixtygiving.org/#">360Giving GrantNav</a></li>
+
 <li>Visualization of flow of funds among various regions of UK</li>
+
 <li>Analysis of flow of funds towards Universities in UK</li>
+
 <ul>
 
 #
@@ -86,6 +94,10 @@
 
     $ pip install pyvis
 
+<li>Gephi</li>
+
+    $ Download from - https://gephi.org/
+
 </ul>
 
 #
@@ -104,6 +116,17 @@ Now you will be able to see all Ipython notebooks which can be directly uploaded
 
 #
 
-Files:
+<h3>Files:</h3>
 
-- 
+Although the provided notebooks can be run completely independently but following the given order will streamline everything.
+
+- <a href="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/UK_Boards_Network_Initial.ipynb">UK_Boards_Network_Initial.ipynb</a> - contains initial analysis of the data, includes pre processing and cleaning of dataset
+
+- <a href="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/UK_Boards_BFS.ipynb">UK_Boards_BFS.ipynb</a> - includes function for building charity and trustee networks using BFS and exporting network data as gexf
+
+- <a href="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/UK_Charities_Classification.ipynb">UK_Charities_Classification.ipynb</a> - several classifications have been explored for UK charities - ML based, Rules Based etc
+
+- <a href="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/UK_Grants.ipynb">UK_Grants.ipynb</a> - contains analysis of grant data and code for building region network for visualizing flow of funds
+
+
+
