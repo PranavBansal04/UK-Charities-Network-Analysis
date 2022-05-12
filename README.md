@@ -128,5 +128,8 @@ Although the provided notebooks can be run completely independently but followin
 
 - <a href="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/UK_Grants.ipynb">UK_Grants.ipynb</a> - contains analysis of grant data and code for building region network for visualizing flow of funds
 
+#
 
+## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
