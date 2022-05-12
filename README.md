@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/outputs/gif.gif?raw=true" title="pyvis" height="300">
+<img src="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/outputs/gif.gif?raw=true" title="Network formed by BFS starting from Rothschild Foundation and exploring nodes till depth 3" height="300">
 </p>
 
 
