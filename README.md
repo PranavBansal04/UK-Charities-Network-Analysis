@@ -130,6 +130,9 @@ Although the provided notebooks can be run completely independently but followin
 
 
 <b>Note</b> - <a href="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/UK_Charities_Classification.ipynb">UK_Charities_Classification.ipynb</a> contains the code for creating a clean dataset of these charities and trustees in Graph Object form.
+
+
+Google Drive Link for the data files used in this project - <a href="https://drive.google.com/drive/folders/13125MzGuHJGfhLu18lwUU6tBJFS7p8Ot?usp=sharing">Drive</a>
 #
 
 <h1 align="center">Results:</h1>
