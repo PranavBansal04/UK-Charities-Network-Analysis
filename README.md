@@ -146,6 +146,7 @@ Degree distributions for UK charity data:
 
 
 #
+
 Example network made with Gephi:
 
 <img align="center" src="https://github.com/PranavBansal04/UK-Charities-Network-Analysis/blob/master/outputs/all_internal.png?raw=true">
